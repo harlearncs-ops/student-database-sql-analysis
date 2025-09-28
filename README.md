@@ -2,7 +2,7 @@
 # 📊 Student Database – SQL Analysis Project  
 
 ## 📌 Overview  
-This project demonstrates how to perform **SQL data analysis** using a sample `student` dataset in the `dummy` database.  
+This project demonstrates how to perform **SQL data analysis** using a sample `student` dataset in the `sys` database.  
 The database records students' **names, marks, and departments**, and the project showcases how to query, analyze, and organize this data.  
 
 The SQL tasks include:  
@@ -17,7 +17,7 @@ The SQL tasks include:
 
 ## 📂 Database Schema  
 
-**Database:** `dummy`  
+**Database:** `sys`  
 **Table:** `student`  
 
 ### Table Structure  
